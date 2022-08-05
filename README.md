@@ -60,7 +60,7 @@ And remember, when in doubt, try to simply restart the server. There was a lot o
 You might also want to submit an issue to help me investigate, I'll need some details of what was happening when the issue occured and a log of the error.
 
 ## Installing
-Please [download the latest release](./releases/latest) (get the .gma file) and place it in your addons folder (this would probably be `C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons` if you intend to host the gamemode on a standard Windows machine)
+Please [download the latest release](https://github.com/axiand/randomizer/releases/latest) (get the .gma file) and place it in your addons folder (this would probably be `C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons` if you intend to host the gamemode on a standard Windows machine)
 
 Once you've done that, restart / fire up Garry's Mod, and you should be set! Make sure to select the gamemode from the bottom-right menu.
 
