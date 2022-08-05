@@ -1,0 +1,9 @@
+{
+	"title"		:	"Randomizer!",
+	"type"		:	"gamemode",
+	"tags"		:	[ "fun" ],
+	"ignore"	:
+	[
+		"*.md"
+	]
+}
