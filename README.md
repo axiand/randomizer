@@ -65,4 +65,4 @@ Please [download the latest release](https://github.com/axiand/randomizer/releas
 Once you've done that, restart / fire up Garry's Mod, and you should be set! Make sure to select the gamemode from the bottom-right menu.
 
 ## Why not Workshop?
-Can't upload it there because I'm playing GMod through Family Sharing which makes me unable to post on the workshop, and I don't intend to buy a separate copy just to do so. Valbo pls fixe
+~~Can't upload it there because I'm playing GMod through Family Sharing which makes me unable to post on the workshop, and I don't intend to buy a separate copy just to do so. Valbo pls fixe~~ disregard because this issue has been fixed. Speaking of, you should probably [check out this mod on the workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2915537217)
