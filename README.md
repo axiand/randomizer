@@ -44,6 +44,26 @@ The easiest way to add a weapon is as such:
 - Select `Copy to clipboard`
 - Paste the text that was copied into the weapons list.
 
+### Variables
+
+- **num rz_amt_weapons** Weaponset size
+- **num rz_goal** Amount of kills a player needs to win the game
+- **num rz_team_goal** Amount of kills a team needs to win the game (for team-based modes)
+- **num rz_hp** Amount of health players spawn with
+- **num rz_target_suit** Amount of armor the target spawns with
+- **bool rz_types_standard** Allows the round type to be picked
+- **bool rz_types_teams2** Allows the round type to be picked
+- **bool rz_types_teams4** Allows the round type to be picked
+- **bool rz_types_equal** Allows the round type to be picked
+- **bool rz_types_target** Allows the round type to be picked
+- **bool rz_types_true** Allows the round type to be picked
+- **string rz_weaponset** Weapons (Space-separated, will use the default HL2 weapons if left blank)
+- **num rz_speed_mult** Walk/Runspeed Multiplier
+
+### Console Commands
+
+- ***Admin-only* rz_skipround** Skip the current round. If used during an intermission will reroll the next roundtype
+
 ## Troubleshooting
 *Please read if you're having problems with the gamemode*
 
