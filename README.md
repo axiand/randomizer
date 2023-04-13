@@ -34,7 +34,7 @@ Server hosts are given the freedom to pick any amount of round types to enable -
 If you want to use your own pool of weapons rather than the default *Half-Life 2* weapons, this section will help you set up your weapons list:
 
 ### Managing your weapons list
-It's recommended to keep your weapons list in a .txt file for easy access. Please note that if you opt to use a custom list, the HL2 weapons will not be included in the pool by-default
+The weapon list is a space-separated list of IDs. You might want to store it in a local file, but remember that you must provide the list in its full form in the config. Please note that if you opt to use a custom list, the HL2 weapons will not be included in the pool by-default
 
 ### Adding a weapon
 The easiest way to add a weapon is as such:
@@ -57,7 +57,7 @@ The easiest way to add a weapon is as such:
 - **bool rz_types_equal** Allows the round type to be picked
 - **bool rz_types_target** Allows the round type to be picked
 - **bool rz_types_true** Allows the round type to be picked
-- **string rz_weaponset** Weapons (Space-separated, will use the default HL2 weapons if left blank)
+- **string rz_weaponset** Weapons (Space-separated, will use the default HL2 weapons if left blank). Don't set this to a path to a local file, it will not work. It must be the list itself.
 - **num rz_speed_mult** Walk/Runspeed Multiplier
 
 ### Console Commands
